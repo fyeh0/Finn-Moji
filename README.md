@@ -1,6 +1,6 @@
 # Finn-Moji :smiley_cat:
 
-![Finn-Moji screenshot](assets/images/Finn-Moji.png)
+![Finn-Moji screenshot](client/assets/images/Finn-Moji.png)
 
 With Finn-Moji, taking responsibility for your personal finances has never been more fun or hassle-free. Finn-Moji can assist you in allocating your income to a budget within your means.
 
