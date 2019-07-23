@@ -1,5 +1,7 @@
 # Finn-Moji :smiley_cat:
 
+![Finn-Moji screenshot](assets/Finn-Moji.png)
+
 With Finn-Moji, taking responsibility for your personal finances has never been more fun or hassle-free. Finn-Moji can assist you in allocating your income to a budget within your means.
 
 ### Overview
@@ -28,6 +30,7 @@ Your budget is represented by our sprite, Finn. The better you take care of your
 ### Links
 
 - [Github](https://github.com/BogacSabuncu/final-project)
+- [Heroku](https://finn-moji.herokuapp.com/)
 
 ### Meet the Team
 
