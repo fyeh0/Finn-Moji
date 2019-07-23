@@ -1,6 +1,6 @@
 # Finn-Moji :smiley_cat:
 
-![Finn-Moji screenshot](assets/Finn-Moji.png)
+![Finn-Moji screenshot](assets/images/Finn-Moji.png)
 
 With Finn-Moji, taking responsibility for your personal finances has never been more fun or hassle-free. Finn-Moji can assist you in allocating your income to a budget within your means.
 
@@ -19,7 +19,6 @@ Your budget is represented by our sprite, Finn. The better you take care of your
 - React
 - MDBReact
 - React-Vis
-- React-Typist
 - MongoDB/Mongoose
 
 ### Future Improvements
